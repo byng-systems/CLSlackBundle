@@ -1,5 +1,5 @@
 {
-  "name": "cleentfaar/slack-bundle",
+  "name": "byng-systems/slack-bundle",
   "description": "This bundle provides integration with the Slack API library, allowing you to interact with the Slack API from within your Symfony projects",
   "keywords": [
     "slack",
